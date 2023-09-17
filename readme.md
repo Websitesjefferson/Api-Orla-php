@@ -15,7 +15,7 @@ composer install
 
 2.  O banco de dados PostgreSQL já está configurado na Render, portanto, você não precisa fazer nenhuma configuração adicional.
 
-Reset das Migrações (opcional): Se você já executou migrações anteriormente e deseja recriar o banco de dados, execute o seguinte comando para reverter todas as migrações:
+Reset das Migrações (opcional):
 
 php artisan migrate:reset
 
